@@ -7,3 +7,5 @@
 •	Others: -  HTML, JavaScript &  CSS, <b> Adobe Edge </b><br>
 •	Web-browser:-Google chrome <br>
 <img src="https://github.com/shaheen14/hospital-management-system/blob/master/index.png">
+<img src="https://github.com/shaheen14/hospital-management-system/blob/master/">
+<img src="https://github.com/shaheen14/hospital-management-system/blob/master/">
