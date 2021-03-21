@@ -1,0 +1,4 @@
+
+place the databse in correct loacation of xampp server.it will run properly.
+ hms_dbms is database and temp is source folder.
+
