@@ -8,4 +8,4 @@
 •	Web-browser:-Google chrome <br>
 <img src="https://github.com/shaheen14/hospital-management-system/blob/master/index.png">
 <img src="https://github.com/shaheen14/hospital-management-system/blob/master/WEBAPPOINTMENT.png">
-<img src="https://github.com/shaheen14/hospital-management-system/blob/master/admin_view">
+<img src="https://github.com/shaheen14/hospital-management-system/blob/master/admin_view.png">
