@@ -6,4 +6,4 @@
 •	Graphic user interface:-<b>Dreamweaver CC</b> <br>
 •	Others: -  HTML, JavaScript &  CSS, <b> Adobe Edge </b><br>
 •	Web-browser:-Google chrome <br>
-<img src="">
+<img src="https://github.com/shaheen14/hospital-management-system/blob/master/index.png">
